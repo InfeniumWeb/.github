@@ -23,11 +23,12 @@ And many more... the possibilities are yours
 
 A team at the heart of technology:
 
+- WordPress
 - HTML
 - CSS
 - JS
 - VueJS
-- Twitter Bootstrap
+- Bootstrap
 - node.js
 - Express
 

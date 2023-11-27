@@ -11,11 +11,11 @@ The possibilities are there, it's up to you to take them in hand.
 
 ## Designs Gallery
 
-[![INFENIUM1](https://i.imgur.com/tpfivHn.jpeg)](http://infenum.com/)
+[![INFENIUM1](https://i.imgur.com/tpfivHn.jpeg)](http://infenum.fr/)
 
-[![INFENIUM2](https://i.imgur.com/bhGFJ4m.jpeg)](http://infenum.com/)
+[![INFENIUM2](https://i.imgur.com/bhGFJ4m.jpeg)](http://infenum.fr/)
 
-[![INFENIUM3](https://i.imgur.com/Ps64lHb.png)](http://infenum.com/)
+[![INFENIUM3](https://i.imgur.com/Ps64lHb.png)](http://infenum.fr/)
 
 And many more... the possibilities are yours
 

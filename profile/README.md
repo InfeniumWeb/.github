@@ -34,6 +34,6 @@ A team at the heart of technology:
 
 # Contact
 
-[![Contact](https://img.icons8.com/fluency/important-mail.png)](mailto:vincent.sniteur@gmail.com)
+[![Contact](https://img.icons8.com/fluency/important-mail.png)](mailto:contact@infenium.fr)
 
 Contact us for all your showcase site projects !
